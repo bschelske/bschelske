@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Ben Schelske
+🎓 PhD Candidate in Analytical Chemistry
 
-<!--
-**bschelske/bschelske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Research Interests: Machine Learning · Microfluidics · Single-Cell Analysis
 
-Here are some ideas to get you started:
+💻 Programming Interests: Python, Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Selected Projects
+
+- [COUNT](https://github.com/ben-schelske/COUNT): Count Objects Until No Tomorrow — object tracking for microfluidics
+- [get_pumped!](https://github.com/ben-schelske/get_pumped): Automating syringe pumps over serial for fluidic control
+
+---
+
+## 📫 Connect
+
+- 👽 [My website](https://benschelske.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-schelske/)
+- 📝 [My CV](https://benschelske.com/cv)
+
