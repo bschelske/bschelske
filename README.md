@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ben Schelske
+# 👋 Hi, I'm Ben
 🎓 PhD Candidate in Analytical Chemistry
 
 🔬 Research Interests: Machine Learning · Microfluidics · Single-Cell Analysis
