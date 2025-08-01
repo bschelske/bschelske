@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Ben
 🎓 PhD Candidate in Analytical Chemistry
 
-🔬 Research Interests: Machine Learning · Microfluidics · Single-Cell Analysis
-
-💻 Programming Interests: Python, Rust
+🔬 Research Interests: Applied Machine Learning · Microfluidics · Single-Cell Analysis
 
 ---
 
