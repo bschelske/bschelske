@@ -15,7 +15,7 @@
 
 ## 📫 Connect
 
-- 👽 [My website](https://benschelske.com/)
+- 🌎 [benschelske.com](https://benschelske.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-schelske/)
 - 📝 [My CV](https://benschelske.com/cv)
 
