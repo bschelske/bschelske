@@ -7,8 +7,8 @@
 
 ## 🚀 Selected Projects
 
-- [COUNT](https://github.com/ben-schelske/COUNT): Count Objects Until No Tomorrow — object tracking for microfluidics
-- [get_pumped!](https://github.com/ben-schelske/get_pumped): Automating syringe pumps over serial for fluidic control
+- [COUNT](https://github.com/bschelske/COUNT): Count Objects Until No Tomorrow — object tracking for microfluidics
+- [get_pumped!](https://github.com/bschelske/get_pumped): Automating syringe pumps over serial for fluidic control
 - [CRediT Generator](https://github.com/bschelske/react-credit): A react app to quickly assign credit to contributors by using the Contributor Role Taxonomy (CRediT)
 
 ---
