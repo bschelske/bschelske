@@ -11,6 +11,7 @@
 - [Netflix Recomender System](https://github.com/bschelske/netflix_recommender) Practice project to gain experience in recomender systems, HPC, and Spark
 - [get_pumped!](https://github.com/bschelske/get_pumped): Automating syringe pumps over serial for microfluidic control
 - [CRediT Generator](https://github.com/bschelske/react-credit): A react app to quickly assign credit to contributors by using the Contributor Role Taxonomy (CRediT)
+- [stage_movement_xml](https://github.com/bschelske/stage_movement_xml): A Rust-based CLI tool to generate Nikon NIS-Elements compatible XY coordinate XMLs for automated stage movement. 
 
 ---
 
