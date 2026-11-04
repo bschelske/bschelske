@@ -24,8 +24,9 @@
 ## 😎 Fun
 
 - [CRediT Generator](https://github.com/bschelske/react-credit): A react app to quickly assign credit to contributors by using the Contributor Role Taxonomy (CRediT)
+- [DAFT](https://github.com/bschelske/DAFT) Dimensional Analysis Format Tool (DAFT): A simple way to display work for unit conversion problems in chemistry
 - [No Tomatoes](https://github.com/bschelske/no-tomatoes): Project about learning Rust and creating my own study tool
-- [benschelske.com](https://benschelske.com/): Hobby website built for fun and to showcase my graduate research (hire me?)
+- [benschelske.com](https://benschelske.com/): Hobby website built for fun and to showcase my graduate research
   
 ---
 ## 📫 Connect
