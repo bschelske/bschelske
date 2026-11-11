@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Ben
+# BEN SCHELSKE
 🎓 PhD Candidate in Analytical Chemistry
 
 🔬 Research Interests: Applied Machine Learning · Microfluidics · Single-Cell Analysis
+
+[benschelske.com](https://benschelske.com/)
 
 ---
 
@@ -13,6 +15,7 @@
 
 ---
 ## 🔬 Lab Tools
+[benschelske.com/tools](https://benschelske.com/tools/)
 
 - [COUNT](https://github.com/bschelske/COUNT): Count Objects Until No Tomorrow — computer vision based object tracking for cancer cells in a microfluidic device
 - [Get Pumped!](https://github.com/bschelske/get_pumped): Automating syringe pumps over serial for microfluidic control
